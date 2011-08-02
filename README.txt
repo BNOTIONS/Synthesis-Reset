@@ -1,0 +1,1 @@
+This file is called the Synthesis Reset because it combines two of the better known resets:The Eric Meyer ResetThe YUI ResetBasically, wherever the two differed, the difference was reconciled and consolidated into this one file.Enjoy.Please provide feedback or suggest improvements.<3
